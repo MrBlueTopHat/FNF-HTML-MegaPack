@@ -1,5 +1,14 @@
-# FnF-Psych-Engine-0.5.1-HTML
-Thx to ඞKarv Dev: https://www.youtube.com/watch?v=SNeYvTQrHko&amp;t=1s <br>
-Play Here: https://sushi8756.github.io/FnF-Psych-Engine-0.5.1-HTML/
-<br>
-IF ANYBODY KNOWS HOW TO PORT (preferably psych engine) FNF MODS PLEASE TELL ME! (do it on the issues pls) :)
+# FNF-HTML-MegaPack
+Thanks to original fork for the PsychEngine HTML Port.
+
+This is a WIP! There will be bugs! Please report any bugs to the Issues page.
+
+Currently Added:
+
+-Base FNF
+
+To-Do:
+
+-Weekend 1
+-Erect Remixes
+-Other Mods
